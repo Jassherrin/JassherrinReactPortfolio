@@ -18,7 +18,7 @@ function App() {
       </section>
       <section className="Contact">
         <h2>Contact Me</h2>
-        <p>Email: your@email.com</p>
+        <p>Email: jassherrin@gmail.com</p>
       </section>
     </div>
   );
